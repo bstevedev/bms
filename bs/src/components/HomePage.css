@@ -1,0 +1,14 @@
+.homepage-container {
+    text-align: center;
+    margin: 50px auto;
+}
+
+h1 {
+    color: #4CAF50;
+    font-size: 36px;
+}
+
+p {
+    color: #555;
+    font-size: 18px;
+}
