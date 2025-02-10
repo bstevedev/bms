@@ -5,7 +5,6 @@ import AboutPage from './components/AboutPage';
 import ContactPage from './components/ContactPage';
 import LocationPage from './components/LocationPage';
 import Navigation from './components/Navigation';
-import LoginPage from './components/LoginPage'; // Importing the LoginPage
 
 const App = () => {
     return (
@@ -16,7 +15,6 @@ const App = () => {
                 <Route path="/about" element={<AboutPage />} />
                 <Route path="/contact" element={<ContactPage />} />
                 <Route path="/location" element={<LocationPage />} />
-                <Route path="/login" element={<LoginPage />} /> {/* Adding route for LoginPage */}
             </Routes>
         </Router>
     );
