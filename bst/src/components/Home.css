@@ -1,0 +1,21 @@
+.home-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    text-align: center;
+}
+
+.google-blue { color: #4285F4; }
+.google-red { color: #DB4437; }
+.google-yellow { color: #F4B400; }
+.google-green { color: #0F9D58; }
+
+
+
+
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  letter-spacing: -1px;
+}

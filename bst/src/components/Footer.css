@@ -1,0 +1,16 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #1a3763;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+  border-top: 1px solid #555;
+}
+
+.footer span.google-blue { color: #4285F4; }
+.footer span.google-red { color: #DB4437; }
+.footer span.google-yellow { color: #F4B400; }
+.footer span.google-green { color: #0F9D58; }
